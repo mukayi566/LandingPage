@@ -11,6 +11,7 @@
   :root {
     --background: #0a0a0a;
     --foreground: #ededed;
+    --text:#2844c5;
   }
 }
 
@@ -18,6 +19,7 @@ body {
   color: var(--foreground);
   background: var(--background);
   font-family: Arial, Helvetica, sans-serif;
+  
 }
  .button  {
   border-radius: 3rem;
